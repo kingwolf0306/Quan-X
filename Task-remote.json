@@ -201,6 +201,5 @@
         "1 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=true",
         "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js, tag=小黑盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/heybox.png, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/umetrip/umetrip.js, tag=航旅纵横, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/umetrip.png, enabled=true",
-    
 ]
 }
