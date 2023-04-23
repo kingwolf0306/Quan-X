@@ -46,8 +46,8 @@
         "0 9 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/txnews.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js, tag=微博, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true",
-         "*/10 */3 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js, tag=聚看点 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jukan.png, enabled=true",
-         "*/30 * * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js, tag=百度极速版 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png, enabled=true",
+        "*/10 */3 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/jukan.js, tag=聚看点 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jukan.png, enabled=true",
+        "*/30 * * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/baidu_speed.js, tag=百度极速版 ,img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/baidu.png, enabled=true",
  
         "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip/ctrip.js, tag=携程旅行, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/ctrip.png, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/barrym-chen/Script/master/ctrip_wx/ct_sign.js, tag=携程小程序, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/ctrip.png, enabled=true",
@@ -139,7 +139,7 @@
         "30 0 8-22/2 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/hotsearch/hot.js, tag=热门监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/hot.png, enabled=true",
         "45 3 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/weibo/weibotalk.js, tag=微博超话, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/weibo.png, enabled=true",
         "0 4 8 * * *  https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/funboat/funboat.js, tag=Funboat, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/funboat.png, enabled=true",
-        "25 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js, tag=九木杂物社, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jiumu.png, enabled=true"
+        "25 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/jiumu/jiumu.js, tag=九木杂物社, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jiumu.png, enabled=true",
  
         "0 2,13,25,45,55 0-23 * * ? https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/momosign.js, tag=陌陌极速版签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/momo.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/wangdelu2020/hongliyu/master/quwalk2.2.js, tag=趣走签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/quwalk.png, enabled=true",
@@ -157,7 +157,7 @@
         "1 0 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/lol.js, tag=LOL排行查询, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/lol.png, enabled=true",
         "0 0-23/1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/testflight.js, tag=testflight公测监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/testflight.png, enabled=true",
   
-        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tuhu.png, enabled=true"
+        "10 0 8 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/tuhu/tuhu.js, tag=途虎养车, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tuhu.png, enabled=true",
  
         "0 9 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/unipay.png, enabled=true",
         "*/30 * * * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=抖音极速版刷音符, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dyjs.png, enabled=true",
